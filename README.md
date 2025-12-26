@@ -31,19 +31,19 @@ A simple Python-based web scraper that extracts customer reviews from G2 for a g
 ## Project Structure
 
 g2-review-scraper/
-  │
-  ├── g2_scraper.py
-  ├── reviews.json
-  └── README.md
+    │
+    ├── g2_scraper.py
+    ├── reviews.json
+    └── README.md
 ## How to Run
 python g2_scraper.py
 
 [
-  {
+{
     "title": "Great collaboration tool",
     "review": "Slack has improved our team communication...",
     "rating": "5",
     "date": "2024-03-12"
-  }
+}
 ]
 
