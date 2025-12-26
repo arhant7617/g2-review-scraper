@@ -28,15 +28,14 @@ A simple Python-based web scraper that extracts customer reviews from G2 for a g
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 g2-review-scraper/
-│
-├── g2_scraper.py
-├── reviews.json
-└── README.md
-
-## 📂 How to Run
+  │
+  ├── g2_scraper.py
+  ├── reviews.json
+  └── README.md
+## How to Run
 python g2_scraper.py
 
 [
